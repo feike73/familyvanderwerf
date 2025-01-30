@@ -1,0 +1,122 @@
+﻿ID2;Generation;FirstName;LastName;Gender;DateOfBirth;DateOfDeath;Street;PostalCode;City;Country;Email;HomePhone;MobilePhone;Father;Mother
+0001;1;Gerrit;van der Werf;M;26/7/1911;23/11/1978;;;;;;;;;
+0002;1;Gerrie;van der Werf - Widdershoven;F;28/1/1916;9/12/1995;;;;;;;;;
+0003;2;Fonger;van der Werf;M;25/5/1941;;östra Göinge Tydinge 1258;28941;Broby;Sweden;fonger@hotmail.se;;zw 0046727141293;0001;0002
+0004;2;Boel;van der Werf - Ivarsson;F;18/6/1942;;östra Göinge Tydinge 1258;28941;Broby;Sweden;boelivarsson@gmail.com;;zw 0046706739894;;
+0005;2;Piet;van der Werf;M;5/7/1942;;Deventerweg 31a;7437 BH;Bathmen;Netherlands;p.werf@outlook.com;+31570541365;0653717276;0001;0002
+0006;2;Margriet;van der Werf - Reuser;F;25/3/1945;;Deventerweg 31a;7437 BH;Bathmen;Netherlands;m.werf45@gmail.com;+31570541365;0612727176;;
+0007;2;Ineke;van der Werf;F;5/11/1943;;Hochterpoort 37;6211 BT;Maastricht;Netherlands;inekevanderwerf@gmail.com;;0612785769;0001;0002
+0008;2;Marjo;Krischer;F;6/11/1953;;Hochterpoort 37;6211 BT;Maastricht;Netherlands;krischer.marjo@gmail.com;;0682507489;;
+0009;2;Haye;van der Werf;M;22/6/1945;;Aan de Staldijk 34;5991 LV;Baarlo;Netherlands;hayefrits@gmail.com;;0651284527;0001;0002
+0010;2;Liesbeth;van der Werf - van Schaik;F;2/6/1946;11/3/1999;;;;;;;;;
+0011;2;Corrie;van der Werf - Geurts;F;18/2/1948;;Aan de Staldijk 34;5991 LV;Baarlo;Netherlands;neeltje1818@gmail.com;;0630832836;;
+0012;2;Nelleke;Ariens - van der Werf;F;22/8/1946;24/4/2012;;;;;;;;0001;0002
+0013;2;Ton;Ariens;M;14/12/1947;;Op de Windhaspel 34;6191LC;Beek L.;Netherlands;;0464377914;;;
+0014;2;Paul;van der Werf;M;20/1/1949;;Hoge Wal 89;5053 AP;Goirle;Netherlands;paul.van.der.werf@planet.nl;0135345601;0630732031;0001;0002
+0015;2;Andrea;van der Werf - Werker;F;22/2/1949;;Hoge Wal 89;5053 AP;Goirle;Netherlands;andreavanderwerf@planet.nl;0135345601;0638354844;;
+0016;2;Imke ;van der Werf;F;8/12/1950;;Bonifaciusstraat 34;7009 MP;Doetinchem;Netherlands;imkevanderwerf@outlook.com;0314335985;0612199304;0001;0002
+0017;2;Henk;Talsma;M;15/1/1955;;Bonifaciusstraat 34;7009 MP;Doetinchem;Netherlands;j.talsmavdwerf@chello.nl;0314335985;0637395529;;
+0018;2;Gabrielle;Notten - van der Werf;F;30/10/1952;;Maastrichterlaan 130;6191RT;Beek L.;Netherlands;gabriellenotten@gmail.com;0464375683;0616081674;0001;0002
+0019;2;Jo;Notten ;M;19/2/1951;;Maastrichterlaan 130;6191RT;Beek L.;Netherlands;jonotten10@gmail.com;0464375683;0619180647;;
+0020;3;Jonas;van der Werf;M;21/5/1975;;Groot Blankenberg 51;1082 AC;Amsterdam;Netherlands;jonasvanderwerf@hotmail.com;0207798062;0626800055;0003;0004
+0021;3;Gaby;Rupert;F;29/1/1975;;Groot Blankenberg 51;1082 AC;Amsterdam;Netherlands;gabyrupert@gmail.com;0207798062;;;
+0022;3;Imke G;Goulmy - van der Werf;F;5/10/1976;;Grevelingen 71;5032 TD;Tilburg;Netherlands;i.goulmy-vanderwerf@kpnplanet.nl;0134683863;0638898331;0003;0004
+0023;3;Richard;Goulmy ;M;14/12/1975;;Grevelingen 71;5032 TD;Tilburg;Netherlands;r.goulmy@kpnplanet.nl;0134683863;;;
+0024;3;Theresia;van der Werf;F;12/2/1980;;Hooggravenseweg 58;3523 TM;Utrecht;Netherlands;theresia_vanderwerf@hotmail.com;;0641813560;0003;0004
+0025;3;Fedde;Kloppenburg;M;6/2/1984;;Hooggravenseweg 58;3523 TM;Utrecht;Netherlands;fedde.kloppenburg@gmail.com;;0645466401;;
+0026;3;Ytzen;van der Werf;M;14/7/1971;;222 Shirehampton Road;BS9 2EH;Bristol;England;ytzen71@me.com;;00447305536087;0005;0006
+0027;3;Esther K;van der Werf - Kok;F;1/2/1976;;222 Shirehampton Road;BS9 2EH;Bristol;England;kok.esthertanja@gmail.com;;00447903015108;;
+0028;3;Feike;van der Werf;M;18/1/1973;;H. Th. 's Jacoblaan 36;3571 BM;Utrecht;Netherlands;feikevanderwerf@gmail.com;0302522084;0621211138;0005;0006
+0029;3;Manon;van der Werf - Min;F;20/7/1972;;H. Th. 's Jacoblaan 36;3571 BM;Utrecht;Netherlands;manonmin@gmail.com;0302522084;0641196575;;
+0030;3;Willemijn;van der Werf;F;11/3/1975;;"no 03-2;Alley 72;Lane 114;Zongshan North R; Shilin District, ";111;Taipei City;Taiwan;willemijnvdwerf@gmail.com;;0646402379;0005;0006
+0031;3;Maarten;Timmerman;M;4/8/1971;;"no 03-2;Alley 72;Lane 114;Zongshan North R; Shilin District, ";111;Taipei City;Taiwan;maarten.timmerman@gmail.com;;0615877408;;
+0032;3;Ivar;Guyaux;M;29/4/1970;;Lieu dit Poulveré ;24240;Monbazillac;France;ivar_guyaux@hotmail.com;;0621707039;;0007
+0033;3;Marie Jose;Veerhuis;F;23/4/1967;;Lieu dit Poulveré ;24240;Monbazillac;France;marie.jose.veerhuis@perfectforpeople.nl;;0620368232;;
+0034;3;Annique;Guyaux;F;26/4/1971;;Houtrijkstraat 381;1013VB;Amsterdam;Netherlands;a.guyaux@chello.nl;;0652524021;;0007
+0035;3;Merijn;van der Werf;F;25/8/1971;;Noardwal 19;9001LK;Grou;Netherlands;berendenmerijn@gmail.com;0566602729;0637479115;0009;0010
+0036;3;Berend;van der Ploeg;M;18/11/1960;;Noardwal 19;9001LK;Grou;Netherlands;;;;;
+0037;3;Eelke;van der Werf;M;23/1/1973;;Voorweem 18;6675ED;Valburg;Netherlands;werfe@xs4all.nl;0488431041;0612127905;0009;0010
+0038;3;Wendy;van der Werf;F;22/5/1973;;Voorweem 18;6675ED;Valburg;Netherlands;;0488431041;0642302405;;
+0039;3;Jillis;van der Werf;M;23/4/1974;;Volkerakstraat 143;6826GV;Arnhem;Netherlands;joop98@hotmail.com;0263518133;6123322403;0009;0010
+0040;3;Esther H;Hoogendoorn;F;1/7/1973;;Volkerakstraat 143;6826GV;Arnhem;Netherlands;;0263518133;0615399658;;
+0041;3;Pleun;van der Werf;F;28/6/1977;;Mandelalaan 36;3818MA;Amersfoort;Netherlands;pleun.vanderwerf@gmail.com;0787507005;0614439414;0009;0010
+0042;3;Marten;Paasman;M;6/5/1976;;Mandelalaan 36;3818MA;Amersfoort;Netherlands;;0787507005;0651417371;;
+0043;3;Aimée ;Verkoeyen;F;24/1/1969;16/8/2019;;;;;;;;;0011
+0044;3;Yvonne;Verkoeyen;F;10/8/1970;;Beekpunge 100;5931DS;Tegelen;Netherlands;;;0642839250;;0011
+0045;3;Carolien;Verkoeyen;F;30/5/1974;;Molenbossen 442;5923AG;Blerick-Venlo;Netherlands;;;;;0011
+0046;3;Lonneke;Quanjel;F;6/10/1973;;Van Randwijckweg 13;6573EG;Beek-Ubbergen;Netherlands;lqmquanjel@gmail.com;;0655723768;0013;0012
+0047;3;Koen;van Sleeuwen;M;1/8/1975;;Van Randwijckweg 13;6573 EG;Beek-Ubbergen;Netherlands;koenvansleeuwen@tele2.nl;;0648233888;;
+0048;3;Inger;Quanjel;F;22/8/1975;;Beilerstroom 10;5032 ER;Tilburg;Netherlands;ipjquanjel@hotmail.com;;0614382078;0013;0012
+0049;3;Dennis;van Gool;M;21/9/1977;;Beilerstroom 10;5032 ER;Tilburg;Netherlands;;;0610409365;;
+0050;3;Sietske;van der Werf;F;12/6/1976;;Bremdreef 3;5571 AD;Bergeijk;Netherlands;sietske.vanderwerf@halsten.nl;0497840910;0646748006;0014;0015
+0051;3;Eric ;van de Veerdonk;M;3/5/1974;;Kruisbroederstraat 25;5211GZ;den Bosch;Netherlands;ericvandeveerdonk@gmail.com;;0628244652;;
+0052;3;Joost;van der Werf;M;15/4/1978;;Burg. van de Mortelplein 120;5037 PM;Tilburg;Netherlands;joostvanderwerf@hotmail.com;;0613872655;0014;0015
+0053;3;Elke;Smolders;F;13/9/1983;;Burg. van de Mortelplein 120;5037 PM;Tilburg;Netherlands;elke.smolders@yahoo.nl;;0653332257;;
+0054;3;Jules;van der Werf;M;19/1/1982;;Burg. Rauppstraat 19;5037 MG;Tilburg;Netherlands;julesvanderwerf@gmail.com;;0651445585;0014;0015
+0055;3;Inge;van Dalfsen;F;11/12/1986;;Burg. Rauppstraat 19;5037 MG;Tilburg;Netherlands;ijbvandalfsen@gmail.com;;0645970541;;
+0056;3;Eva;Vangangel;F;30/9/1978;;Top Naeflaan 18;1183 BR;Amstelveen;Netherlands;evavangangel@hotmail.com;;0617232202;;0016
+0057;3;Joep V;Vangangel;M;2/7/1980;;Hof van Parma 70;7007 KL;Doetinchem;Netherlands;joepvangangel@hotmail.com;;0646181035;;0016
+0058;3;Annette ;Peters;F;23/7/1986;;Hof van Parma 70;7007 KL;Doetinchem;Netherlands;;;;;
+0059;3;Thomas;Talsma;M;21/11/1984;;23 Churchillraod;TAS 7053;Taroona;Tasmania;thomas.talsma@gmail.com;;++61424443053;0017;0016
+0060;3;Gabrielle ;Lis;F;1/5/1979;;23 Churchillraod;TAS 7053;Taroona;Tasmania;;;++61432490396;;
+0061;3;Jelke;Notten;F;29/2/1980;;Oude Spoorbaan 48;1221SC;Hilversum;Netherlands;Jelke_notten@hotmail.com;;0621116294;0019;0018
+0062;3;Mathijs ;de Boer;M;8/8/1971;;Oude Spoorbaan 48;1221SC;Hilversum;Netherlands;mdeboer771@gmail.com;;0653920125;;
+0063;3;Frouke;Notten;F;30/8/1984;;Waterleidingsingel 80;5915 VZ;Venlo;Netherlands;froukenotten@hotmail.com ;;0641813312;0019;0018
+0064;3;Pieter;Zwakman;M;19/11/1983;;Waterleidingsingel 80;5915 VZ;Venlo;Netherlands;p.zwakman@hotmail.com;;0652320062;;
+0065;4;Bing;van der Werf;M;23/6/2007;;Groot Blankenberg 51;1082 AC;Amsterdam;Netherlands;bingivar@gmail.com;;;0020;0021
+0066;4;Jools;van der Werf;F;15/10/2012;;Groot Blankenberg 51;1082 AC;Amsterdam;Netherlands;;;;0020;0021
+0067;4;Julia;Goulmy;F;16/10/2002;;Grevelingen 71;5032 TD;Tilburg;Netherlands;juliagoulmy@kpnmail.nl;;;0023;0022
+0068;4;Emil;Goulmy;M;2/10/2005;2/10/2005;;;;;;;;0023;0022
+0069;4;Nils;Goulmy;M;7/4/2007;;Grevelingen 71;5032 TD;Tilburg;Netherlands;nilsgoulmy@kpnmail.nl;;;0023;0022
+0070;4;Siri;Kloppenburg;F;9/2/2014;;Hooggravenseweg 58;3523 TM;Utrecht;Netherlands;;;;0025;0024
+0071;4;Ronja;Kloppenburg;F;15/5/2015;;Hooggravenseweg 58;3523 TM;Utrecht;Netherlands;;;;0025;0024
+0072;4;Olle;van der Werf;M;4/5/2004;;222 Shirehampton Road;BS9 2EH;Bristol;England;ollevanderwerf@live.nl;;;0026;0027
+0073;4;Mirre;van der Werf;F;14/1/2009;;222 Shirehampton Road;BS9 2EH;Bristol;England;mirre.c.vanderwerf@gmail.com;;;0026;0027
+0074;4;Thijn;van der Werf;M;13/5/2003;;H. Th. 's Jacoblaan 36;3571 BM;Utrecht;Netherlands;;;;0028;0029
+0075;4;Bram;van der Werf;M;27/10/2005;;H. Th. 's Jacoblaan 36;3571 BM;Utrecht;Netherlands;;;;0028;0029
+0076;4;Floortje;van der Werf;F;22/2/2010;;H. Th. 's Jacoblaan 36;3571 BM;Utrecht;Netherlands;;;;0028;0029
+0077;4;Mels;Timmerman;M;14/11/2010;;Rijsenburgselaan 1;3972EG;Driebergen;Netherlands;;;;0031;0030
+0078;4;Faber;Timmerman;M;12/5/2013;;Rijsenburgselaan 1;3972EG;Driebergen;Netherlands;;;;0031;0030
+0079;4;Lieve;Guyaux;F;7/6/2002;;Houtrijkstraat 381;1013VB;Amsterdam;Netherlands;;;;;0034
+0080;4;Roman;Guyaux;M;8/5/2006;;Houtrijkstraat 381;1013VB;Amsterdam;Netherlands;;;;;0034
+0081;4;Berber;van der Ploeg;F;6/2/1998;;Noardwal 19;9001LK;Grou;Netherlands;berbervanderploeg@live.nl;;;0036;0035
+0082;4;Pelle;van der Ploeg;M;16/7/1999;;Noardwal 19;9001LK;Grou;Netherlands;Ploeg.pelle@gmail.com;;;0036;0035
+0083;4;Sinne;van der Ploeg;F;15/2/2003;;Noardwal 19;9001LK;Grou;Netherlands;Sinnevanderploeg@gmail.com;;;0036;0035
+0084;4;Merel;van der Werf;F;30/10/2001;;Voorweem 18;6675ED;Valburg;Netherlands;;;;0037;0038
+0085;4;Janne;van der Werf;M;22/6/2003;;Voorweem 18;6675ED;Valburg;Netherlands;;;;0037;0038
+0086;4;Wies;van der Werf;F;6/2/2006;;Voorweem 18;6675ED;Valburg;Netherlands;;;;0037;0038
+0087;4;Luuke;Paasman;M;9/10/2007;;Mandelalaan 36;3818MA;Amersfoort;Netherlands;;;;0042;0041
+0088;4;Katelijne;Paasman;F;7/9/2009;;Mandelalaan 36;3818MA;Amersfoort;Netherlands;;;;0042;0041
+0089;4;Joost;Peeters;M;10/4/2001;;Distelstraat 65;6542LP;Nijmegen;Netherlands;;;;;0044
+0090;4;Stan;Peeters;M;28/7/2005;;Beekpunge 100;5931DS;Tegelen;Netherlands;;;;;0044
+0091;4;Tren;Peeters;M;24/4/2007;;Beekpunge 100;5931DS;Tegelen;Netherlands;;;;;0044
+0092;4;Lisa ;Verkoelen;F;14/2/2003;;;;Tilburg;Netherlands;;;;;0045
+0093;4;Phebe;van Sleeuwen;F;20/1/2006;;Van Randwijckweg 13;6573EG;Beek-Ubbergen;Netherlands;;;;0047;0046
+0094;4;Joppe;van Sleeuwen;M;31/5/2007;;Van Randwijckweg 13;6573EG;Beek-Ubbergen;Netherlands;;;;0047;0046
+0095;4;Jikke;van Sleeuwen;F;6/10/2009;;Van Randwijckweg 13;6573EG;Beek-Ubbergen;Netherlands;;;;0047;0046
+0096;4;Raf;van Gool;M;9/1/2014;;Beilerstroom 10;5032 ER;Tilburg;Netherlands;;;;0049;0048
+0097;4;Mats;van Gool;M;28/3/2016;;Beilerstroom 10;5032 ER;Tilburg;Netherlands;;;;0049;0048
+0098;4;Loet;Zwierink;M;29/8/2005;;Bremdreef 3;5571 AD;Bergeijk;Netherlands;;;;;0050
+0099;4;Willemijn Z;Zwierink;F;25/9/2007;;Bremdreef 3;5571 AD;Bergeijk;Netherlands;;;;;0050
+0100;4;Joep Z;Zwierink;M;8/4/2009;;Bremdreef 3;5571 AD;Bergeijk;Netherlands;;;;;0050
+0101;4;Bente ;van de Veerdonk;M;21/12/2004;;Kruisbroederstraat 25;5211GZ;den Bosch;Netherlands;;;;0051;
+0102;4;Janne;van de Veerdonk;M;21/1/2008;;Kruisbroederstraat 25;5211GZ;den Bosch;Netherlands;;;;0051;
+0103;4;Willem ;van der Werf;M;1/11/2017;;Burg. van de Mortelplein 120;5037 PM;Tilburg;Netherlands;;;;0052;0053
+0104;4;Marie;van der Werf;F;9/10/2019;;Burg. van de Mortelplein 120;5037 PM;Tilburg;Netherlands;;;;0052;0053
+0105;4;Kato;van der Werf;F;26/2/2021;;Burg. van de Mortelplein 120;5037 PM;Tilburg;Netherlands;;;;0052;0053
+0106;4;Luus ;van der Werf;M;6/12/2019;;Burg. Rauppstraat 19;5037 MG;Tilburg;Netherlands;;;;0054;0055
+0107;4;Door;van der Werf;F;1/3/2023;;Burg. Rauppstraat 19;5037 MG;Tilburg;Netherlands;;;;0054;0055
+0108;4;Madelief;van der Woerd;F;7/8/2008;;Top Naeflaan 18;1183 BR;Amstelveen;Netherlands;;;;;0056
+0109;4;Lot;van der Woerd;F;12/1/2010;;Top Naeflaan 18;1183 BR;Amstelveen;Netherlands;;;;;0056
+0110;4;Sam;Vangangel;M;20/8/2016;;Hof van Parma 70;7007 KL;Doetinchem;Netherlands;;;;0057;0058
+0111;4;Sofie;Vangangel;F;20/8/2016;;Hof van Parma 70;7007 KL;Doetinchem;Netherlands;;;;0057;0058
+0112;4;Aiden;Talsma;M;2/2/2010;;23 Churchillraod;TAS 7053;Taroona;Netherlands;;;;0059;0060
+0113;4;Leander;Talsma;M;1/5/2015;;23 Churchillraod;TAS 7053;Taroona;Netherlands;;;;0059;0060
+0114;4;Krisje;de Boer;F;12/2/2014;;Oude Spoorbaan 48;1221SC;Hilversum;Netherlands;;;;0062;0061
+0115;4;Joep;de Boer;M;26/12/2016;;Oude Spoorbaan 48;1221SC;Hilversum;Netherlands;;;;0062;0061
+0116;4;Lisa Marie;Zwakman;F;17/7/2014;;Waterleidingsingel 80;5915 VZ;Venlo;Netherlands;;;;0064;0063
+0117;4;Roos Marijn;Zwakman;F;14/12/2016;;Waterleidingsingel 80;5915 VZ;Venlo;Netherlands;;;;0064;0063
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
